@@ -1,0 +1,38 @@
+running egg_info
+creating build/teacher_student_pkg/teacher_student_pkg.egg-info
+writing build/teacher_student_pkg/teacher_student_pkg.egg-info/PKG-INFO
+writing dependency_links to build/teacher_student_pkg/teacher_student_pkg.egg-info/dependency_links.txt
+writing entry points to build/teacher_student_pkg/teacher_student_pkg.egg-info/entry_points.txt
+writing requirements to build/teacher_student_pkg/teacher_student_pkg.egg-info/requires.txt
+writing top-level names to build/teacher_student_pkg/teacher_student_pkg.egg-info/top_level.txt
+writing manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+reading manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+writing manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+copying teacher_student_pkg/student_receive_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+copying teacher_student_pkg/teacher_hello_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+copying teacher_student_pkg/__init__.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+running install
+running install_lib
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/student_receive_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/teacher_hello_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/__init__.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/student_receive_node.py to student_receive_node.cpython-310.pyc
+byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/teacher_hello_node.py to teacher_hello_node.cpython-310.pyc
+byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index
+creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index/packages
+copying resource/teacher_student_pkg -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/teacher_student_pkg
+running install_egg_info
+Copying build/teacher_student_pkg/teacher_student_pkg.egg-info to /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg-0.0.0-py3.10.egg-info
+running install_scripts
+Installing student_receive_node = teacher_student_pkg.student_receive_node:mainteacher_hello_node script to /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/teacher_student_pkg
+writing list of installed files to '/home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/install.log'

@@ -1,0 +1,5 @@
+  File "/home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle/turtle_teleop_key.py", line 12
+    global theta = 270 / 180 * math.pi
+                 ^
+SyntaxError: invalid syntax
+

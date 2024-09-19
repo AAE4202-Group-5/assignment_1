@@ -1,0 +1,35 @@
+running egg_info
+creating build/assignment1/assignment1.egg-info
+writing build/assignment1/assignment1.egg-info/PKG-INFO
+writing dependency_links to build/assignment1/assignment1.egg-info/dependency_links.txt
+writing entry points to build/assignment1/assignment1.egg-info/entry_points.txt
+writing requirements to build/assignment1/assignment1.egg-info/requires.txt
+writing top-level names to build/assignment1/assignment1.egg-info/top_level.txt
+writing manifest file 'build/assignment1/assignment1.egg-info/SOURCES.txt'
+reading manifest file 'build/assignment1/assignment1.egg-info/SOURCES.txt'
+writing manifest file 'build/assignment1/assignment1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build
+creating /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib
+creating /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib/assignment1
+copying assignment1/my_node_1.py -> /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib/assignment1
+copying assignment1/__init__.py -> /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib/assignment1
+running install
+running install_lib
+creating /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1
+copying /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib/assignment1/my_node_1.py -> /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1
+copying /home/user/AAE4202_src/wk3/assignment1/build/assignment1/build/lib/assignment1/__init__.py -> /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1
+byte-compiling /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/my_node_1.py to my_node_1.cpython-310.pyc
+byte-compiling /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/ament_index
+creating /home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/ament_index/resource_index
+creating /home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/ament_index/resource_index/packages
+copying resource/assignment1 -> /home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/assignment1
+running install_egg_info
+Copying build/assignment1/assignment1.egg-info to /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing my_node_1 script to /home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/assignment1
+writing list of installed files to '/home/user/AAE4202_src/wk3/assignment1/build/assignment1/install.log'

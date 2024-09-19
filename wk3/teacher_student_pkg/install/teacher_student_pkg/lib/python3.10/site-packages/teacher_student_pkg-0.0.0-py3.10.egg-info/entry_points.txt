@@ -1,0 +1,4 @@
+[console_scripts]
+student_receive_node = teacher_student_pkg.student_receive_node:main
+teacher_hello_node = teacher_student_pkg.teacher_hello_node:main
+

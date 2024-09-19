@@ -1,0 +1,40 @@
+[0.349s] Invoking command in '/home/user/AAE4202_src/wk3/teacher_student_pkg': PYTHONPATH=/home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/teacher_student_pkg build --build-base /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build install --record /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/install.log --single-version-externally-managed install_data
+[0.483s] running egg_info
+[0.484s] creating build/teacher_student_pkg/teacher_student_pkg.egg-info
+[0.484s] writing build/teacher_student_pkg/teacher_student_pkg.egg-info/PKG-INFO
+[0.484s] writing dependency_links to build/teacher_student_pkg/teacher_student_pkg.egg-info/dependency_links.txt
+[0.484s] writing entry points to build/teacher_student_pkg/teacher_student_pkg.egg-info/entry_points.txt
+[0.484s] writing requirements to build/teacher_student_pkg/teacher_student_pkg.egg-info/requires.txt
+[0.484s] writing top-level names to build/teacher_student_pkg/teacher_student_pkg.egg-info/top_level.txt
+[0.484s] writing manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+[0.485s] reading manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+[0.485s] writing manifest file 'build/teacher_student_pkg/teacher_student_pkg.egg-info/SOURCES.txt'
+[0.485s] running build
+[0.485s] running build_py
+[0.486s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build
+[0.486s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib
+[0.486s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+[0.486s] copying teacher_student_pkg/student_receive_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+[0.486s] copying teacher_student_pkg/teacher_hello_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+[0.486s] copying teacher_student_pkg/__init__.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg
+[0.486s] running install
+[0.486s] running install_lib
+[0.486s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+[0.486s] copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/student_receive_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+[0.486s] copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/teacher_hello_node.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+[0.487s] copying /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build/lib/teacher_student_pkg/__init__.py -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg
+[0.487s] byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/student_receive_node.py to student_receive_node.cpython-310.pyc
+[0.487s] byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/teacher_hello_node.py to teacher_hello_node.cpython-310.pyc
+[0.487s] byte-compiling /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg/__init__.py to __init__.cpython-310.pyc
+[0.487s] running install_data
+[0.487s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index
+[0.487s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index
+[0.487s] creating /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index/packages
+[0.487s] copying resource/teacher_student_pkg -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/ament_index/resource_index/packages
+[0.487s] copying package.xml -> /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/share/teacher_student_pkg
+[0.487s] running install_egg_info
+[0.488s] Copying build/teacher_student_pkg/teacher_student_pkg.egg-info to /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages/teacher_student_pkg-0.0.0-py3.10.egg-info
+[0.488s] running install_scripts
+[0.498s] Installing student_receive_node = teacher_student_pkg.student_receive_node:mainteacher_hello_node script to /home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/teacher_student_pkg
+[0.499s] writing list of installed files to '/home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/install.log'
+[0.513s] Invoked command in '/home/user/AAE4202_src/wk3/teacher_student_pkg' returned '0': PYTHONPATH=/home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/AAE4202_src/wk3/teacher_student_pkg/install/teacher_student_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base build/teacher_student_pkg build --build-base /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/build install --record /home/user/AAE4202_src/wk3/teacher_student_pkg/build/teacher_student_pkg/install.log --single-version-externally-managed install_data

@@ -1,0 +1,18 @@
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/my_node_1.py
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/student_receive_node.py
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/teacher_hello_node.py
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__init__.py
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__pycache__/my_node_1.cpython-310.pyc
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__pycache__/student_receive_node.cpython-310.pyc
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__pycache__/teacher_hello_node.cpython-310.pyc
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1/__pycache__/__init__.cpython-310.pyc
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/ament_index/resource_index/packages/assignment1
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/share/assignment1/package.xml
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/entry_points.txt
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/top_level.txt
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/dependency_links.txt
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/PKG-INFO
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/zip-safe
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/requires.txt
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/python3.10/site-packages/assignment1-0.0.0-py3.10.egg-info/SOURCES.txt
+/home/user/AAE4202_src/wk3/assignment1/install/assignment1/lib/assignment1/my_node_1 = assignment1.my_node_1:mainstudent_receive_node = assignment1.student_receive_node:mainteacher_hello_node
