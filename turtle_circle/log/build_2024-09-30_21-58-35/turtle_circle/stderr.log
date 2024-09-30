@@ -1,0 +1,14 @@
+/home/user/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+error: can't copy '/home/user/AAE4202_src/assignment_1/turtle_circle/build/turtle_circle/resource/turtle_circle': doesn't exist or not a regular file

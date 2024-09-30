@@ -1,0 +1,3 @@
+[console_scripts]
+turtle_pose_show_node = turtle_circle.turtle_pose_show_node:main
+turtle_teleop_key = turtle_circle.turtle_teleop_key:main

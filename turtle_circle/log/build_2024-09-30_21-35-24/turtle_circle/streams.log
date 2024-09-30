@@ -1,0 +1,32 @@
+[0.439s] Invoking command in '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle': PYTHONPATH=/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build --no-deps symlink_data
+[0.638s] running develop
+[0.638s] /home/user/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.638s] !!
+[0.638s] 
+[0.638s]         ********************************************************************************
+[0.639s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.639s]         Instead, use pypa/build, pypa/installer or other
+[0.639s]         standards-based tools.
+[0.639s] 
+[0.639s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.639s]         ********************************************************************************
+[0.639s] 
+[0.639s] !!
+[0.639s]   easy_install.initialize_options(self)
+[0.743s] running egg_info
+[0.750s] writing turtle_circle.egg-info/PKG-INFO
+[0.751s] writing dependency_links to turtle_circle.egg-info/dependency_links.txt
+[0.751s] writing entry points to turtle_circle.egg-info/entry_points.txt
+[0.751s] writing requirements to turtle_circle.egg-info/requires.txt
+[0.751s] writing top-level names to turtle_circle.egg-info/top_level.txt
+[0.766s] reading manifest file 'turtle_circle.egg-info/SOURCES.txt'
+[0.767s] writing manifest file 'turtle_circle.egg-info/SOURCES.txt'
+[0.775s] running build_ext
+[0.775s] Creating /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle-circle.egg-link (link to .)
+[0.775s] Installing turtle_pose_show_node script to /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/turtle_circle
+[0.775s] Installing turtle_teleop_key script to /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/turtle_circle
+[0.775s] 
+[0.776s] Installed /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle
+[0.776s] running symlink_data
+[0.776s] symbolically linking /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/launch/turtle_circle.launch -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/turtle_circle
+[0.794s] Invoked command in '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle' returned '0': PYTHONPATH=/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build --no-deps symlink_data

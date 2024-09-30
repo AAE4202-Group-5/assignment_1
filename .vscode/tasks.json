@@ -1,0 +1,19 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build Specific ROS 2 Package",
+            "type": "shell",
+            "command": "/bin/bash",
+            "args": [
+                "-c",
+                "source /opt/ros/humble/setup.bash && cd ~/AAE4202_src/assignment_1/turtle_circle && colcon build --packages-select turtle_circle --symlink-install && . install/setup.bash"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}
