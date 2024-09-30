@@ -1,0 +1,35 @@
+running develop
+/home/user/.local/lib/python3.10/site-packages/setuptools/command/develop.py:42: EasyInstallDeprecationWarning: easy_install command is deprecated.
+!!
+
+        ********************************************************************************
+        Please avoid running ``setup.py`` and ``easy_install``.
+        Instead, use pypa/build, pypa/installer or other
+        standards-based tools.
+
+        See https://github.com/pypa/setuptools/issues/917 for details.
+        ********************************************************************************
+
+!!
+  easy_install.initialize_options(self)
+running egg_info
+creating turtle_circle.egg-info
+writing turtle_circle.egg-info/PKG-INFO
+writing dependency_links to turtle_circle.egg-info/dependency_links.txt
+writing entry points to turtle_circle.egg-info/entry_points.txt
+writing requirements to turtle_circle.egg-info/requires.txt
+writing top-level names to turtle_circle.egg-info/top_level.txt
+writing manifest file 'turtle_circle.egg-info/SOURCES.txt'
+reading manifest file 'turtle_circle.egg-info/SOURCES.txt'
+writing manifest file 'turtle_circle.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle-circle.egg-link (link to .)
+Installing turtle_pose_show_node script to /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/lib/turtle_circle
+Installing turtle_teleop_key script to /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/lib/turtle_circle
+
+Installed /home/user/AAE4202_src/assignment_1/turtle_circle/build/turtle_circle
+running symlink_data
+creating /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/share/ament_index
+creating /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/share/ament_index/resource_index
+creating /home/user/AAE4202_src/assignment_1/turtle_circle/install/turtle_circle/share/ament_index/resource_index/packages
+error: can't copy '/home/user/AAE4202_src/assignment_1/turtle_circle/build/turtle_circle/resource/turtle_circle': doesn't exist or not a regular file

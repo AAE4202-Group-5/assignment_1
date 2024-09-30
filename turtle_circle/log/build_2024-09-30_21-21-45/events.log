@@ -1,0 +1,55 @@
+[0.000000] (-) TimerEvent: {}
+[0.000717] (turtle_circle) JobQueued: {'identifier': 'turtle_circle', 'dependencies': OrderedDict()}
+[0.001927] (turtle_circle) JobStarted: {'identifier': 'turtle_circle'}
+[0.099644] (-) TimerEvent: {}
+[0.200101] (-) TimerEvent: {}
+[0.300560] (-) TimerEvent: {}
+[0.401011] (-) TimerEvent: {}
+[0.423013] (turtle_circle) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', 'setup.py', 'develop', '--editable', '--build-directory', '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build', '--no-deps', 'symlink_data'], 'cwd': '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle', 'env': {'GJS_DEBUG_TOPICS': 'JS ERROR;JS LOG', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'LANGUAGE': 'zh_CN:en', 'USER': 'user', 'LC_TIME': 'zh_CN.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'GIT_ASKPASS': '/usr/share/code/resources/app/extensions/git/dist/askpass.sh', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib', 'HOME': '/home/user', 'CHROME_DESKTOP': 'code-url-handler.desktop', 'OLDPWD': '/home/user/AAE4202_src', 'TERM_PROGRAM_VERSION': '1.93.1', 'DESKTOP_SESSION': 'ubuntu', 'VSCODE_ENV_PREPEND': 'PS1=(.venv) :PATH=/home/user/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash\\x3a/home/user/AAE4202_src/.venv/bin\\x3a', 'GIO_LAUNCHED_DESKTOP_FILE': '/usr/share/applications/code.desktop', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'VSCODE_GIT_ASKPASS_MAIN': '/usr/share/code/resources/app/extensions/git/dist/askpass-main.js', 'LC_MONETARY': 'zh_CN.UTF-8', 'VSCODE_GIT_ASKPASS_NODE': '/usr/share/code/code', 'MANAGERPID': '1612', 'SYSTEMD_EXEC_PID': '1789', 'IM_CONFIG_CHECK_ENV': '1', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'GIO_LAUNCHED_DESKTOP_FILE_PID': '3616', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'ROS_DISTRO': 'humble', 'LOGNAME': 'user', 'JOURNAL_STREAM': '8:385', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'user', 'TERM': 'xterm-256color', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'PATH': '/home/user/.vscode/extensions/ms-python.python-2024.14.1-linux-x64/python_files/deactivate/bash:/home/user/AAE4202_src/.venv/bin:/home/user/.local/bin:/home/user/.local/bin:/opt/ros/humble/bin:/home/user/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/user-NUC14RVK-B:@/tmp/.ICE-unix/1760,unix/user-NUC14RVK-B:/tmp/.ICE-unix/1760', 'INVOCATION_ID': '0fdb6cdca26f40bdac9f127d2fc2e476', 'PAPERSIZE': 'a4', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'zh_CN.UTF-8', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'GDK_BACKEND': 'x11', 'DISPLAY': ':0', 'LANG': 'zh_CN.UTF-8', 'XDG_CURRENT_DESKTOP': 'Unity', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'VIRTUAL_ENV_PROMPT': '(.venv)', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.QD0SU2', 'LS_COLORS': '', 'VSCODE_GIT_IPC_HANDLE': '/run/user/1000/vscode-git-6f4b7c52b0.sock', 'TERM_PROGRAM': 'vscode', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'AMENT_PREFIX_PATH': '/opt/ros/humble', 'ORIGINAL_XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'SHELL': '/bin/bash', 'LC_NAME': 'zh_CN.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'VSCODE_ENV_REPLACE': 'VIRTUAL_ENV=/home/user/AAE4202_src/.venv:VIRTUAL_ENV_PROMPT=(.venv)', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'GJS_DEBUG_OUTPUT': 'stderr', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'VIRTUAL_ENV': '/home/user/AAE4202_src/.venv', 'VSCODE_GIT_ASKPASS_EXTRA_ARGS': '', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'zh_CN.UTF-8', 'LC_PAPER': 'zh_CN.UTF-8', 'COLCON': '1'}, 'shell': False}
+[0.501157] (-) TimerEvent: {}
+[0.533420] (turtle_circle) StderrLine: {'line': b"/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'\n"}
+[0.533837] (turtle_circle) StderrLine: {'line': b'  warnings.warn(msg)\n'}
+[0.601316] (-) TimerEvent: {}
+[0.614591] (turtle_circle) StdoutLine: {'line': b'running develop\n'}
+[0.615007] (turtle_circle) StderrLine: {'line': b'/home/user/.local/lib/python3.10/site-packages/setuptools/command/develop.py:41: EasyInstallDeprecationWarning: easy_install command is deprecated.\n'}
+[0.615200] (turtle_circle) StderrLine: {'line': b'!!\n'}
+[0.615380] (turtle_circle) StderrLine: {'line': b'\n'}
+[0.615536] (turtle_circle) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.615689] (turtle_circle) StderrLine: {'line': b'        Please avoid running ``setup.py`` and ``easy_install``.\n'}
+[0.615838] (turtle_circle) StderrLine: {'line': b'        Instead, use pypa/build, pypa/installer or other\n'}
+[0.615982] (turtle_circle) StderrLine: {'line': b'        standards-based tools.\n'}
+[0.616128] (turtle_circle) StderrLine: {'line': b'\n'}
+[0.616274] (turtle_circle) StderrLine: {'line': b'        See https://github.com/pypa/setuptools/issues/917 for details.\n'}
+[0.616438] (turtle_circle) StderrLine: {'line': b'        ********************************************************************************\n'}
+[0.616585] (turtle_circle) StderrLine: {'line': b'\n'}
+[0.616726] (turtle_circle) StderrLine: {'line': b'!!\n'}
+[0.616871] (turtle_circle) StderrLine: {'line': b'  easy_install.initialize_options(self)\n'}
+[0.624610] (turtle_circle) StderrLine: {'line': b'Traceback (most recent call last):\n'}
+[0.624912] (turtle_circle) StderrLine: {'line': b'  File "/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/setup.py", line 5, in <module>\n'}
+[0.625089] (turtle_circle) StderrLine: {'line': b'    setup(\n'}
+[0.625243] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup\n'}
+[0.625418] (turtle_circle) StderrLine: {'line': b'    return distutils.core.setup(**attrs)\n'}
+[0.625569] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 183, in setup\n'}
+[0.625719] (turtle_circle) StderrLine: {'line': b'    return run_commands(dist)\n'}
+[0.625869] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 199, in run_commands\n'}
+[0.626016] (turtle_circle) StderrLine: {'line': b'    dist.run_commands()\n'}
+[0.626162] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 954, in run_commands\n'}
+[0.626318] (turtle_circle) StderrLine: {'line': b'    self.run_command(cmd)\n'}
+[0.626724] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/dist.py", line 950, in run_command\n'}
+[0.626842] (turtle_circle) StderrLine: {'line': b'    super().run_command(command)\n'}
+[0.626923] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 972, in run_command\n'}
+[0.627000] (turtle_circle) StderrLine: {'line': b'    cmd_obj.ensure_finalized()\n'}
+[0.627070] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 111, in ensure_finalized\n'}
+[0.627156] (turtle_circle) StderrLine: {'line': b'    self.finalize_options()\n'}
+[0.627224] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options\n'}
+[0.627305] (turtle_circle) StderrLine: {'line': b'    easy_install.finalize_options(self)\n'}
+[0.627382] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 253, in finalize_options\n'}
+[0.627451] (turtle_circle) StderrLine: {'line': b"    'dist_fullname': self.distribution.get_fullname(),\n"}
+[0.627520] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 267, in get_fullname\n'}
+[0.627589] (turtle_circle) StderrLine: {'line': b'    return _distribution_fullname(self.get_name(), self.get_version())\n'}
+[0.627658] (turtle_circle) StderrLine: {'line': b'  File "/home/user/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname\n'}
+[0.627720] (turtle_circle) StderrLine: {'line': b'    canonicalize_version(version, strip_trailing_zero=False),\n'}
+[0.627784] (turtle_circle) StderrLine: {'line': b"TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'\n"}
+[0.650334] (turtle_circle) CommandEnded: {'returncode': 1}
+[0.650857] (turtle_circle) JobEnded: {'identifier': 'turtle_circle', 'rc': 1}
+[0.660953] (-) EventReactorShutdown: {}

@@ -1,0 +1,39 @@
+running egg_info
+creating build/turtle_circle/turtle_circle.egg-info
+writing build/turtle_circle/turtle_circle.egg-info/PKG-INFO
+writing dependency_links to build/turtle_circle/turtle_circle.egg-info/dependency_links.txt
+writing entry points to build/turtle_circle/turtle_circle.egg-info/entry_points.txt
+writing requirements to build/turtle_circle/turtle_circle.egg-info/requires.txt
+writing top-level names to build/turtle_circle/turtle_circle.egg-info/top_level.txt
+writing manifest file 'build/turtle_circle/turtle_circle.egg-info/SOURCES.txt'
+reading manifest file 'build/turtle_circle/turtle_circle.egg-info/SOURCES.txt'
+writing manifest file 'build/turtle_circle/turtle_circle.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build
+creating /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib
+creating /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle
+copying turtle_circle/turtlesim_node.py -> /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle
+copying turtle_circle/turtle_teleop_key.py -> /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle
+copying turtle_circle/__init__.py -> /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle
+running install
+running install_lib
+creating /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle
+copying /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle/turtlesim_node.py -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle
+copying /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle/turtle_teleop_key.py -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle
+copying /home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/build/lib/turtle_circle/__init__.py -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle
+byte-compiling /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle/turtlesim_node.py to turtlesim_node.cpython-310.pyc
+byte-compiling /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle/turtle_teleop_key.py to turtle_teleop_key.cpython-310.pyc
+byte-compiling /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/ament_index
+creating /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/ament_index/resource_index
+creating /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/ament_index/resource_index/packages
+copying resource/turtle_circle -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/ament_index/resource_index/packages
+copying package.xml -> /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/share/turtle_circle
+running install_egg_info
+Copying build/turtle_circle/turtle_circle.egg-info to /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/python3.10/site-packages/turtle_circle-0.0.0-py3.10.egg-info
+running install_scripts
+Installing turtle_teleop_key script to /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/turtle_circle
+Installing turtlesim_node script to /home/user/AAE4202_src/wk3/turtle_circle/install/turtle_circle/lib/turtle_circle
+writing list of installed files to '/home/user/AAE4202_src/wk3/turtle_circle/build/turtle_circle/install.log'
