@@ -1,3 +1,0 @@
-[console_scripts]
-my_node_1 = assignment1.my_node_1:mainstudent_receive_node = assignment1.student_receive_node:mainteacher_hello_node = assignment1.teacher_hello_node:main
-
