@@ -9,14 +9,14 @@ def generate_launch_description():
             name='turtlesim'
         ),
         Node(
-            package='turtle_circle',  # 替换为包含 turtle_pose_show_node 的包名
-            executable='turtle_pose_show_node',  # 确保这是编译后的可执行文件名
+            package='turtle_circle',  
+            executable='turtle_pose_show_node',  
             name='turtle_pose_show',
             output='screen'
         ),
         Node(
-            package='turtle_circle',  # 替换为包含 turtle_teleop_key 的包名
-            executable='turtle_teleop_key',  # 确保这是编译后的可执行文件名
+            package='turtle_circle',  
+            executable='turtle_teleop_key', 
             name='turtle_teleop_key',
             output='screen'
         )
